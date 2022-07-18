@@ -1,5 +1,3 @@
 # pocsuite3-POC
 
-基于POCsuite3和互联网上公开脚本编写的pocsuite3-POC
-
-此项目脚本只支持_verify模式
+此项目为youyu个人经验编写POC，EXP。可直接被pocsuite3调用
